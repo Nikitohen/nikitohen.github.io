@@ -1,1 +1,34 @@
+* {
+  font-family: Monospace;
+}
+
+body {
+  background-color: mediumSlateBlue;
+}
+
+#name, h2 {
+  text-align: center;
+}
+
+h2, h1 {
+  color: lightpink;
+}
+
+span {
+  background-color: tan;
+}
+
+.top {
+  background-color: pink;
+}
+
+table {
+  border: 2px solid red;
+  width: 600px;
+}
+
+td {
+  border-bottom: 1px solid orange;
+}
+
 
